@@ -1,6 +1,6 @@
-### Hi there, I'm [Mo Safar!](https://moudy-sy.github.io/My-prtfolio/index.html) 👋
+### Hi there, I'm [Mohammad Safar!](https://moudy-sy.github.io/My-prtfolio/index.html) 👋
 <p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="380px"><br><br>
 </p>
 <h2>Glad to see you here!</h2>
 
