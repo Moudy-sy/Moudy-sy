@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML , CSS, JavaScript, React, Wordpress**
 
-- ⚡ Fun fact: **I love to listen to music*
+- ⚡ Fun fact: I love to play guitar
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
