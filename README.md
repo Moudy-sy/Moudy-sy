@@ -8,7 +8,7 @@
 
 - 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
 
-- 💬 Ask me about **HTML , CSS, JavaScript, React, Wordpress**
+- 💬 Ask me about **HTML , CSS, JavaScript, React, React Native**
 
 - ⚡ Fun fact: I love to play guitar
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +32,3 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a>
 </p>
-
-
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
