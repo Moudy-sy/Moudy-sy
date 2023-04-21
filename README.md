@@ -32,7 +32,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
     <br>
+    #Codewars Profile Badges
     <br>
-    Codewars Profile Badges
       <img src="https://www.codewars.com/users/Moudy-sy/badges/large" >
 </p>
