@@ -25,7 +25,7 @@
     <a href="https://getbootstrap.com" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
     </a> 
-    <a href="https://fr.reactjs.org/" target="_blank"> 
+    <a href="https://reactjs.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </code> 
     </a> 
     <a href="https://git-scm.com/" target="_blank"> 
